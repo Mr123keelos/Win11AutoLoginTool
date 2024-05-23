@@ -1,4 +1,4 @@
-# Win11AutoLoginTool-123keelos
+# Win11 Auto Login Tool
 - Requires .NET Framework 6.0
 - Requires admin access
 - You may get a false postive from your AV, this is because this program makes system changes that Windows does not like
